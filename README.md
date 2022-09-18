@@ -26,3 +26,19 @@ Our mission is  to fix your laptop or computer as quickly and effectively as p
 - **Desktop Upgrades – from ₹48.00 plus parts**
   
 - **Software Application installation or configuration – from ₹48.00**
+
+Remote Support
+
+Our technicians are often able to resolve your computer problems remotely. Using our Remote Access Support service we can quickly and conveniently fix many common problems including:-
+
+-  Email not working due to incorrect configuration
+- Software configuration
+- Minor software repair
+- Driver updates
+- Operating system updates and patching
+
+Remote Access Support is offered on a prepaid ticket basis. A ticket for up to 30 minutes assistance is only ₹40.00. Most of the above are usually fixed within half an hour but for longer jobs your technician will advise you of additional charges.
+
+Please call to purchase your Remote Access Support ticket.
+
+When you have your ticket number please use the link below to access your session.
